@@ -1,0 +1,9 @@
+html,body,header,h1,p,table,td,li,div,footer,form,fieldset,aside,section,article,nav,ul,figure,h2,tr,a{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
